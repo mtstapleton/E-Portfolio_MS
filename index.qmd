@@ -7,7 +7,7 @@ about:
   links: 
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/ramon-melser-666932129/
+      href: link
     - icon: envelope-at
       text: Email
       href: mailto:student@student.ubc.ca
