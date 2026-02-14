@@ -11,9 +11,7 @@ about:
     - icon: envelope-at
       text: Email
       href: mailto
-mainfont: Perpetua Titling MT
-sansfont: Cambria
-monofont: Cambria
+mainfont: Cambria
 ---
 
 Growing up in Toronto I have always had an interest in the environment, enhanced by both my educational and recreational pursuits. I am an avid reader and enjoy cross country mountain biking, hoping one day to ride a variety of trails across the world.

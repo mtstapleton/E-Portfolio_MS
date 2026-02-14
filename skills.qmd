@@ -5,10 +5,10 @@ format:
     theme: yeti
     css: styles.css
     toc: true
-mainfont: Perpetua Titling MT
-sansfont: Cambria
-monofont: Cambria
+mainfont: Cambria
 ---
+
+# Personal
 
 -   Conversational spoken and written French
 
@@ -19,6 +19,8 @@ monofont: Cambria
 -   Self starter, can work with minimal oversight
 
 -   Works well with others, has a positive attitude
+
+# Academic and Professional
 
 -   Attention to detail
 

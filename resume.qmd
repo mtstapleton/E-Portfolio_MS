@@ -5,9 +5,7 @@ format:
     theme: yeti
     css: styles.css
     toc: true
-mainfont: Perpetua Titling MT
-sansfont: Cambria
-monofont: Cambria
+mainfont: Cambria
 ---
 
 # Education

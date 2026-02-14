@@ -2,16 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Madeline S",
+    "title": "Madeline Stapleton",
     "section": "",
-    "text": "Growing up in Toronto I have always had an interest in the environment, enhanced by both my educational and recreational pursuits. This led me to study geological sciences during my undergraduate degree at Queen’s University and it was there that I was first introduced to geomatics. Intrigued and wanting to learn more about its applications, I completed the certificate in Applied Digital Geography and GIS from Toronto Metropolitan University. This program solidified my interest in wanting to pursue using remote sensing and GIS techniques to analyse and monitor environmental change and health in a professional setting. For the past few years, I have worked within the operations department at a Toronto-based wealth management firm, learning the processes behind the financial industry. I am currently a student at UBC, completing the MGEM program."
+    "text": "Growing up in Toronto I have always had an interest in the environment, enhanced by both my educational and recreational pursuits. I am an avid reader and enjoy cross country mountain biking, hoping one day to ride a variety of trails across the world.\nMy career objective is to utilize the knowledge learnt from my Bachelor’s, Certificate and Master’s programs as well as the experience gained working in a dynamic office environment to build my skills and qualifications with related work in the geological and geomatics industries, providing a positive impact on an organization as well as on resource and environmental management."
   },
   {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Resume",
     "section": "",
-    "text": "Education\n\nList your education here.\n\n\n\nPublications\nPeer-reviewed publications:\n\nList any peer-reviewed publications here.\n\nReports:\n\nList any non-peer reviewed materials you’d like to share here.\n\n\n\nConferences & Talks\nInvited Talks\n\nIf you’ve been invited to speak in a professional setting, list that here.\n\nConference Presentations\n\nIf the presentation was at a conference, list them here.\n\n\n\nAwards & Honors\n\nList any scholarships, bursaries, etc.\n\n\n\nTeaching Assistantships\n\nList any TA positions you may have held.\n\n\n\nInstitutional Service\n\nVolunteering etc."
+    "text": "2025 - Current\nUniversity of British Columbia\nVancouver, BC\nNotable Research/Projects in Progress:\n\nComparison of the PSTA and BurnP3+ model outputs to determine the topographical influences on their resulting wildfire threat ratings and the accuracy of their predictions in Northeastern British Columbia\nWill changes to the shoreline vegetation due to the new reservoir for the Site C Dam impact the shoreline stability and health of the riparian zone along the Peace River in British Columbia between the Moberly River and Cache Creek (Proposal)\n\n\n\n\n2022 - 2023\nThe Chang School of Continuing Education, Toronto Metropolitan University\nToronto, ON\nNotable Research/Projects Completed:\n\nClean Drinking Water Distribution Network, A Conceptual Utility Network\nApplication of GIS in the Planning, Response and Recovery Stages of the Disaster Response and Management of Wildfires\nIdentifying the Change in Vegetation Health and Density After the 2016 Forest Fire in Fort McMurray, Alberta, Specifically Within the Boundary of the Horse River Fire\n\n\n\n\n2015 - 2019\nQueen’s University\nKingston, ON\nNotable Research/Projects Completed:\n\nComparison of Irish Type and MVT Deposits: Genetic Constraints and Deposit Characteristics\nAqueous Geochemistry of the Ground Waters in the Kalahari Desert, Namibia, Africa\nField work in Sutton QC mapping the Appalachian orogeny"
   },
   {
     "objectID": "publications.html",
@@ -54,5 +54,103 @@
     "title": "Content & Deliverables",
     "section": "",
     "text": "You can also provide a frame linking to external websites. For example, here is a Google Earth Engine application I developed - which I embedded in this webpage using the code below:\n\n\n&lt;iframe width=\"900\" height=\"700\"\nsrc=\"https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool\"&gt;\n&lt;/iframe&gt;\n\nThe full-screen GEE application is available here in case you’re interested.\n(To use the GEE tool, navigate to any city you’d like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)"
+  },
+  {
+    "objectID": "resume.html#masters-of-geomatics-for-environmental-management",
+    "href": "resume.html#masters-of-geomatics-for-environmental-management",
+    "title": "Resume",
+    "section": "",
+    "text": "2025 - Current\nUniversity of British Columbia\nVancouver, BC\nNotable Research/Projects in Progress:\n\nComparison of the PSTA and BurnP3+ model outputs to determine the topographical influences on their resulting wildfire threat ratings and the accuracy of their predictions in Northeastern British Columbia\nWill changes to the shoreline vegetation due to the new reservoir for the Site C Dam impact the shoreline stability and health of the riparian zone along the Peace River in British Columbia between the Moberly River and Cache Creek (Proposal)"
+  },
+  {
+    "objectID": "resume.html#certificate-in-applied-digital-geography-and-gis",
+    "href": "resume.html#certificate-in-applied-digital-geography-and-gis",
+    "title": "Resume",
+    "section": "",
+    "text": "2022 - 2023\nThe Chang School of Continuing Education, Toronto Metropolitan University\nToronto, ON\nNotable Research/Projects Completed:\n\nClean Drinking Water Distribution Network, A Conceptual Utility Network\nApplication of GIS in the Planning, Response and Recovery Stages of the Disaster Response and Management of Wildfires\nIdentifying the Change in Vegetation Health and Density After the 2016 Forest Fire in Fort McMurray, Alberta, Specifically Within the Boundary of the Horse River Fire"
+  },
+  {
+    "objectID": "resume.html#bachelor-of-science-honours-with-a-specialization-in-geological-sciences",
+    "href": "resume.html#bachelor-of-science-honours-with-a-specialization-in-geological-sciences",
+    "title": "Resume",
+    "section": "",
+    "text": "2015 - 2019\nQueen’s University\nKingston, ON\nNotable Research/Projects Completed:\n\nComparison of Irish Type and MVT Deposits: Genetic Constraints and Deposit Characteristics\nAqueous Geochemistry of the Ground Waters in the Kalahari Desert, Namibia, Africa\nField work in Sutton QC mapping the Appalachian orogeny"
+  },
+  {
+    "objectID": "resume.html#echelon-wealth-partners",
+    "href": "resume.html#echelon-wealth-partners",
+    "title": "Resume",
+    "section": "Echelon Wealth Partners",
+    "text": "Echelon Wealth Partners\nOperations Department – Associate, New Accounts\nFebruary 2020 - June 2024\n\nReported to the Director of Operations and Chief Operating Officer\nProvided general financial services operations support to the Retail and Institutional departments\nReviewed client documents to identify any missing and/or incomplete sections, liaised with the advisors and clients as required to remediate any issues\nOpened new accounts and updated existing accounts in the Broadridge Dataphile system\nVerified accounts were opened and/or updated correctly based off the documentation provided\nUtilized computer skills to organize and interact with the Echelon Advisors, including Microsoft Outlook and Excel\nWorked with the online account management systems, Udirect and Uopen, as well as provided feedback to Fidelity Clearing Canada on potential efficiencies\nPerformed compliance checks for updated and new account documentation using the World Check One and TransUnion Credit Check Systems\nProcessed the transfer out of client accounts to other financial firms, ensuring the account and transfer information were in good order, advisor approvals were received, and any fees were charged\nTracked the process of internal and external transfers within client accounts in the Broadridge Dataphile system\nOrganized the incoming returned client mail, verified client information, and updated systems as required while providing reports to Echelon Advisors if information was required to be confirmed/updated or accounts restricted\nUpdated the client fee structures and amounts for all Managed, SMA and Fee Based accounts in the FlowFees system\nProcessed the monthly and quarterly fee charges and reconciliation to both the client and control accounts using FlowFees and Dataphile systems\nManaged the reception desk; answered calls, provided information or transferred the calls to the required person for both clients and employees, organized the incoming mail, aided in meeting room organization and bookings\nOther operations tasks for as assigned\n\nOperations Department - Summer Student\nMay - August 2018, 2017, 2016\n\nReported to the Manager of Operations and the Chief Operations Officer\nProvided general financial services and operations support to the Retail and Institutional departments\nOpened new accounts and updated existing accounts in the Broadridge Dataphile system.\nPerformed compliance checks for updated and new account documents using the Thomson Reuters World Check System\nOrganized the incoming returned client mail, verified client information, and updated systems as required while providing reports to Echelon Advisors if information was required to be confirmed/updated or accounts restricted\nAssisted with the onboarding of new advisors to the firm, including helping with the migration of their clients to Echelon Wealth Partners\nOther operations tasks as assigned"
+  },
+  {
+    "objectID": "resume.html#city-sightseeing-toronto",
+    "href": "resume.html#city-sightseeing-toronto",
+    "title": "Resume",
+    "section": "City Sightseeing Toronto",
+    "text": "City Sightseeing Toronto\nCustomer Service/Sales Ambassador\nJune - December 2019\n\nSold tickets for the company tours and various Toronto attractions, at designated stops and on the buses\nHandled payments (credit card and cash) and processed vouchers\nProvided customer service to customers and tourists in the city of Toronto and on the tours available\nProvided safety information and ensured safety measures are followed on the buses\nEnsured that the bus followed the route and arrived on time to each location\nCommunicated any issues with service and/or traffic\nCashed out other employees at the end of their shift\nWorked in a variety of weather conditions, including heat, rain and snow"
+  },
+  {
+    "objectID": "resume.html#cineplex-odeon",
+    "href": "resume.html#cineplex-odeon",
+    "title": "Resume",
+    "section": "Cineplex Odeon",
+    "text": "Cineplex Odeon\nCast Member\nMay - September 2016\n\nServed customers at the concession stand and handled payments, including credit/cards and cash\nOpened and/or closed the concession stand, cleaning and preparing all material for the current or next shift\nMade popcorn and ensured the ice and pop machines were working and stocked at all times"
+  },
+  {
+    "objectID": "resume.html#icelandic-canadian-club-of-toronto",
+    "href": "resume.html#icelandic-canadian-club-of-toronto",
+    "title": "Resume",
+    "section": "Icelandic Canadian Club of Toronto",
+    "text": "Icelandic Canadian Club of Toronto\n\nBoard Member (2022 - Current)\nFalkinn Newsletter Editor (2024 - Current)\nOrganized, presented and emceed the Annual Travel Show (2023 and 2025)\nCoordinated the guest speakers for the INLNA 2025 Annual General Meeting\nVarious tasks as assigned"
+  },
+  {
+    "objectID": "resume.html#the-women-in-mining-kingston-student-chapter",
+    "href": "resume.html#the-women-in-mining-kingston-student-chapter",
+    "title": "Resume",
+    "section": "The Women in Mining Kingston Student Chapter",
+    "text": "The Women in Mining Kingston Student Chapter\n\nCo-president (2018 - 2019)\nVice President for Geological Sciences (2017 - 2018)\nUndergraduate Representative for Geological Sciences (2016 - 2017)\nAided in the organization and presentation of:\n\nThe Annual Fur Cup Hockey Game between the Geology and Mining Departments\nAnnual Career Night Presentation\nWIM Kingston Conference\nBake sales and fundraising events\n\nEnsured information on WIM events were disseminated to the geology department\nHandled the chapter finances\nAppointed committee members"
+  },
+  {
+    "objectID": "resume.html#prospectors-and-developers-association-of-canada",
+    "href": "resume.html#prospectors-and-developers-association-of-canada",
+    "title": "Resume",
+    "section": "Prospectors and Developers Association of Canada",
+    "text": "Prospectors and Developers Association of Canada\n\nConvention Ambassador (2017 and 2018)\nProvided information on the conference schedule and layout\nProvided directions to booths and industry talks\nEnsured only conference attendees entered the trade show and presentations\nCounted talk attendees"
+  },
+  {
+    "objectID": "resume.html#queens-university",
+    "href": "resume.html#queens-university",
+    "title": "Resume",
+    "section": "Queen’s University",
+    "text": "Queen’s University\n\nGael, ASUS Orientation Leader (2017)\n\nWelcomed the first year students to the university\nLead an orientation group\n\nEnsured the students apart of my orientation group were able to navigate campus and attended the orientation week events\nChecked in and provided help year round to the students apart of my orientation group\n\n\nHomecoming Volunteer (2017)\n\nChecked in alumni attending the homecoming events\nEnsured the attendees had their name cards and homecoming packages\nProvided information on the schedule and location of events"
+  },
+  {
+    "objectID": "resume.html#beach-metro-news",
+    "href": "resume.html#beach-metro-news",
+    "title": "Resume",
+    "section": "Beach Metro News",
+    "text": "Beach Metro News\n\nLocal Newspaper Delivery (2013 - 2015)\nDelivered the local newspaper to the houses on my route\nEnsured the newspaper was delivered in a timely manner"
+  },
+  {
+    "objectID": "resume.html#eastern-canadian-highland-dancing-association",
+    "href": "resume.html#eastern-canadian-highland-dancing-association",
+    "title": "Resume",
+    "section": "Eastern Canadian Highland Dancing Association",
+    "text": "Eastern Canadian Highland Dancing Association\n\nLined up dancers in the queue to compete according to their group order (2012 - 2015)\nHelped run the bake sale table when required (2012 - 2015)\nAided the treasurer when required (2012 - 2015)"
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills Summary",
+    "section": "",
+    "text": "Personal\n\nConversational spoken and written French\nValid Ontario G Driver’s Licence\nGood learner, able to pick things up quickly\nSelf starter, can work with minimal oversight\nWorks well with others, has a positive attitude\n\n\n\nAcademic and Professional\n\nAttention to detail\nHandling of sensitive and confidential information\nCustomer service and communication\nNavigation of office dynamics\nAdept with computers, including:\n\nMicrosoft Office Products including Excel, Outlook, PowerPoint and Word\nESRI applications including ArcMap, ArcGIS Pro and ArcGIS Online\nENVI\nQGIS\nR Studio\nPython\nBroadridge Dataphile System\nUnifide Platform\nFlowfees System\n\nVariety of image analyses techniques and processes, including:\n\nVector and raster data formats\nSupervised and unsupervised classification\nSuitability and least cost path analyses\nRemote sensing indices, including vegetation health and burn severity\nTime series analysis\nStream network analyses\nLidar processing and work with DEMs and CHMs\nAir Photo and orthophoto analysis\n\nField Safety\nField Skills - Mapping\n\nPace & Compass traversing with air photos\nDetailed grid mapping\nDetailed map and cross section preparation at several scales\nMeasuring stratigraphic sections and their correlation\nField (outcrop) and thin section identification of rocks\nField navigation and structural measurements with Silva and Brunton compasses, base map and GPS\nTraverse planning\nGeological mapping in Appalachian orogeny (poly-folded terrain)\nGeological mapping in the Grenville Province and in the St. Lawrence Platform\n\nField Skills - Site Investigation and Exploration\n\nRecognition and mapping of folded and faulted rock\nCharacterization of jointed and altered rock masses (RQD, Q, RMR)\nInterpretation of regional structural geology\nHydrological baseline assessment\nBasic air photo and orthophoto interpretation\nSurficial sediment characterization\nLogging drill core and soil profiles in auger holes\nApplications of geophysical techniques including magnetics, ground penetrating radar and refraction seismics\nProcessing of geological data (Stereonets and Rose diagrams)\nBasic economic analysis in mineral exploration\nGeological report writing and map production"
+  },
+  {
+    "objectID": "academic_work.html",
+    "href": "academic_work.html",
+    "title": "Academic Work",
+    "section": "",
+    "text": "Below is a sample of some of my academic work completed in my Bachelor’s, Certificate and Master’s Programs.\n\nCode Samples\n\n\nWill changes to the shoreline vegetation due to the new reservoir for the Site C Dam impact the shoreline stability and health of the riparian zone along the Peace River in British Columbia between the Moberly River and Cache Creek\n\n\nIdentifying the Change in Vegetation Health and Density After the 2016 Forest Fire in Fort McMurray, ALberta, Specifically Within the Boundary of the Horse River Fire\n\n\nClean Drinking Water Distribution Network\n\n\nApplication of GIS in the Planning, Response and Recovery Stages of the Disaster Response and Management of Wildfires\n\n\nComparison of MVT and Irish-Type Deposits"
   }
 ]
