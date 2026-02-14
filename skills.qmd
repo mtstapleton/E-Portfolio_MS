@@ -10,7 +10,7 @@ format:
 mainfont: Cambria
 ---
 
-# Personal
+## Personal
 
 -   Conversational spoken and written French
 
@@ -22,7 +22,7 @@ mainfont: Cambria
 
 -   Works well with others, has a positive attitude
 
-# Academic and Professional
+## Academic and Professional
 
 -   Attention to detail
 
@@ -69,6 +69,8 @@ mainfont: Cambria
     -   Lidar processing and work with DEMs and CHMs
 
     -   Air Photo and orthophoto analysis
+
+## Field
 
 -   Field Safety
 

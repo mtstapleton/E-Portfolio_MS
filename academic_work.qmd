@@ -12,14 +12,24 @@ mainfont: Cambria
 
 Below is a sample of some of my academic work completed in my Bachelor's, Certificate and Master's Programs.
 
-# Code Samples
+## Code Samples
 
-# **Will changes to the shoreline vegetation due to the new reservoir for the Site C Dam impact the shoreline stability and health of the riparian zone along the Peace River in British Columbia between the Moberly River and Cache Creek**
+## 
 
-# Identifying the Change in Vegetation Health and Density After the 2016 Forest Fire in Fort McMurray, ALberta, Specifically Within the Boundary of the Horse River Fire
+## **Will changes to the shoreline vegetation due to the new reservoir for the Site C Dam impact the shoreline stability and health of the riparian zone along the Peace River in British Columbia between the Moberly River and Cache Creek**
 
-# Clean Drinking Water Distribution Network
+## 
 
-# Application of GIS in the Planning, Response and Recovery Stages of the Disaster Response and Management of Wildfires
+## Identifying the Change in Vegetation Health and Density After the 2016 Forest Fire in Fort McMurray, ALberta, Specifically Within the Boundary of the Horse River Fire
 
-# Comparison of MVT and Irish-Type Deposits
+## 
+
+## Clean Drinking Water Distribution Network
+
+## 
+
+## Application of GIS in the Planning, Response and Recovery Stages of the Disaster Response and Management of Wildfires
+
+## 
+
+## Comparison of MVT and Irish-Type Deposits

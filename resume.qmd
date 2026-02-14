@@ -6,13 +6,13 @@ format:
     css: styles.css
     toc: true
     toc_float: true
-    toc_depth: 3
+    toc_depth: 4
 mainfont: Cambria
 ---
 
-# Education
+## Education
 
-## **Masters of Geomatics for Environmental Management**
+### **Masters of Geomatics for Environmental Management**
 
 *2025 - Current*
 
@@ -26,7 +26,7 @@ Vancouver, BC
 
 -   Will changes to the shoreline vegetation due to the new reservoir for the Site C Dam impact the shoreline stability and health of the riparian zone along the Peace River in British Columbia between the Moberly River and Cache Creek (Proposal)
 
-## **Certificate in Applied Digital Geography and GIS**
+### **Certificate in Applied Digital Geography and GIS**
 
 *2022 - 2023*
 
@@ -42,7 +42,7 @@ Toronto, ON
 
 -   Identifying the Change in Vegetation Health and Density After the 2016 Forest Fire in Fort McMurray, Alberta, Specifically Within the Boundary of the Horse River Fire
 
-## **Bachelor of Science (Honours) with a Specialization in Geological Sciences**
+### **Bachelor of Science (Honours) with a Specialization in Geological Sciences**
 
 *2015 - 2019*
 
@@ -58,9 +58,9 @@ Kingston, ON
 
 -   Field work in Sutton QC mapping the Appalachian orogeny
 
-# Work Experience
+## Work Experience
 
-## Echelon Wealth Partners
+### Echelon Wealth Partners
 
 **Operations Department – Associate, New Accounts**
 
@@ -114,7 +114,7 @@ Kingston, ON
 
 -   Other operations tasks as assigned
 
-## **City Sightseeing Toronto**
+### **City Sightseeing Toronto**
 
 **Customer Service/Sales Ambassador**
 
@@ -136,7 +136,7 @@ Kingston, ON
 
 -   Worked in a variety of weather conditions, including heat, rain and snow
 
-## **Cineplex Odeon** 
+### **Cineplex Odeon** 
 
 **Cast Member**
 
@@ -148,9 +148,9 @@ Kingston, ON
 
 -   Made popcorn and ensured the ice and pop machines were working and stocked at all times
 
-# Volunteer Experience
+## Volunteer Experience
 
-## **Icelandic Canadian Club of Toronto**
+### **Icelandic Canadian Club of Toronto**
 
 -   Board Member (2022 - Current)
 
@@ -162,7 +162,7 @@ Kingston, ON
 
 -   Various tasks as assigned
 
-## **The Women in Mining Kingston Student Chapter**
+### **The Women in Mining Kingston Student Chapter**
 
 -   Co-president (2018 - 2019)
 
@@ -186,7 +186,7 @@ Kingston, ON
 
 -   Appointed committee members
 
-## **Prospectors and Developers Association of Canada**
+### **Prospectors and Developers Association of Canada**
 
 -   Convention Ambassador (2017 and 2018)
 
@@ -198,13 +198,13 @@ Kingston, ON
 
 -   Counted talk attendees
 
-## **Queen's University** 
+### **Queen's University** 
 
 -   Gael, ASUS Orientation Leader (2017)
 
     -   Welcomed the first year students to the university
 
-    -   Lead an orientation group
+    -   Orientation group leader
 
         -   Ensured the students apart of my orientation group were able to navigate campus and attended the orientation week events
 
@@ -218,7 +218,7 @@ Kingston, ON
 
     -   Provided information on the schedule and location of events
 
-## **Beach Metro News**
+### **Beach Metro News**
 
 -   Local Newspaper Delivery (2013 - 2015)
 
@@ -226,7 +226,7 @@ Kingston, ON
 
 -   Ensured the newspaper was delivered in a timely manner
 
-## **Eastern Canadian Highland Dancing Association**
+### **Eastern Canadian Highland Dancing Association**
 
 -   Lined up dancers in the queue to compete according to their group order (2012 - 2015)
 
@@ -234,7 +234,7 @@ Kingston, ON
 
 -   Aided the treasurer when required (2012 - 2015)
 
-# Recent Accomplishments and Awards
+## Recent Accomplishments and Awards
 
 -   Associates Grade (Teachers Level) in Highland Dance – Scottish Official Highland Dancing Association, British Association of Teachers Dancing (2015 - Current)
 
