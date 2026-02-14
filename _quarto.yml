@@ -3,7 +3,6 @@ project:
   output-dir: C:\Users\mtstaple.stu\Documents\GitHub\E-Portfolio_MS
 
 website:
-  title: ""
   navbar:
     left:
       - href: index.qmd
