@@ -1,10 +1,12 @@
 ---
-title: ""
+title: "Resume"
 format:
   html:
     theme: yeti
     css: styles.css
     toc: true
+    toc_float: true
+    toc_depth: 3
 mainfont: Cambria
 ---
 
