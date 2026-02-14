@@ -1,39 +1,251 @@
 ---
 title: "Resume"
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+mainfont: Perpetua Titling MT
+sansfont: Cambria
+monofont: Cambria
 ---
 
 # Education
 
--   List your education here.
+## **Masters of Geomatics for Environmental Management**
 
-# Publications
+*2025 - Current*
 
-*Peer-reviewed publications:*
+University of British Columbia
 
--   List any peer-reviewed publications here.
+Vancouver, BC
 
-*Reports:*
+*Notable Research/Projects in Progress:*
 
--   List any non-peer reviewed materials you'd like to share here.
+-   Comparison of the PSTA and BurnP3+ model outputs to determine the topographical influences on their resulting wildfire threat ratings and the accuracy of their predictions in Northeastern British Columbia
 
-# Conferences & Talks
+-   Will changes to the shoreline vegetation due to the new reservoir for the Site C Dam impact the shoreline stability and health of the riparian zone along the Peace River in British Columbia between the Moberly River and Cache Creek (Proposal)
 
-*Invited Talks*
+## **Certificate in Applied Digital Geography and GIS**
 
--   If you've been invited to speak in a professional setting, list that here.
+*2022 - 2023*
 
-*Conference Presentations*
+The Chang School of Continuing Education, Toronto Metropolitan University
 
--   If the presentation was at a conference, list them here.
+Toronto, ON
 
-# Awards & Honors
+*Notable Research/Projects Completed:*
 
--   List any scholarships, bursaries, etc.
+-   Clean Drinking Water Distribution Network, A Conceptual Utility Network
 
-# Teaching Assistantships
+-   Application of GIS in the Planning, Response and Recovery Stages of the Disaster Response and Management of Wildfires
 
--   List any TA positions you may have held.
+-   Identifying the Change in Vegetation Health and Density After the 2016 Forest Fire in Fort McMurray, Alberta, Specifically Within the Boundary of the Horse River Fire
 
-# Institutional Service
+## **Bachelor of Science (Honours) with a Specialization in Geological Sciences**
 
--   Volunteering etc.
+*2015 - 2019*
+
+Queen’s University
+
+Kingston, ON
+
+*Notable Research/Projects Completed:*
+
+-   Comparison of Irish Type and MVT Deposits: Genetic Constraints and Deposit Characteristics
+
+-   Aqueous Geochemistry of the Ground Waters in the Kalahari Desert, Namibia, Africa
+
+-   Field work in Sutton QC mapping the Appalachian orogeny
+
+# Work Experience
+
+## Echelon Wealth Partners
+
+**Operations Department – Associate, New Accounts**
+
+*February 2020 - June 2024*
+
+-   Reported to the Director of Operations and Chief Operating Officer
+
+-   Provided general financial services operations support to the Retail and Institutional departments
+
+-   Reviewed client documents to identify any missing and/or incomplete sections, liaised with the advisors and clients as required to remediate any issues
+
+-   Opened new accounts and updated existing accounts in the Broadridge Dataphile system
+
+-   Verified accounts were opened and/or updated correctly based off the documentation provided
+
+-   Utilized computer skills to organize and interact with the Echelon Advisors, including Microsoft Outlook and Excel
+
+-   Worked with the online account management systems, Udirect and Uopen, as well as provided feedback to Fidelity Clearing Canada on potential efficiencies
+
+-   Performed compliance checks for updated and new account documentation using the World Check One and TransUnion Credit Check Systems
+
+-   Processed the transfer out of client accounts to other financial firms, ensuring the account and transfer information were in good order, advisor approvals were received, and any fees were charged
+
+-   Tracked the process of internal and external transfers within client accounts in the Broadridge Dataphile system
+
+-   Organized the incoming returned client mail, verified client information, and updated systems as required while providing reports to Echelon Advisors if information was required to be confirmed/updated or accounts restricted
+
+-   Updated the client fee structures and amounts for all Managed, SMA and Fee Based accounts in the FlowFees system
+
+-   Processed the monthly and quarterly fee charges and reconciliation to both the client and control accounts using FlowFees and Dataphile systems
+
+-   Managed the reception desk; answered calls, provided information or transferred the calls to the required person for both clients and employees, organized the incoming mail, aided in meeting room organization and bookings
+
+-   Other operations tasks for as assigned
+
+**Operations Department - Summer Student**
+
+*May - August 2018, 2017, 2016*
+
+-   Reported to the Manager of Operations and the Chief Operations Officer
+
+-   Provided general financial services and operations support to the Retail and Institutional departments
+
+-   Opened new accounts and updated existing accounts in the Broadridge Dataphile system.
+
+-   Performed compliance checks for updated and new account documents using the Thomson Reuters World Check System
+
+-   Organized the incoming returned client mail, verified client information, and updated systems as required while providing reports to Echelon Advisors if information was required to be confirmed/updated or accounts restricted
+
+-   Assisted with the onboarding of new advisors to the firm, including helping with the migration of their clients to Echelon Wealth Partners
+
+-   Other operations tasks as assigned
+
+## **City Sightseeing Toronto**
+
+**Customer Service/Sales Ambassador**
+
+*June - December 2019*
+
+-   Sold tickets for the company tours and various Toronto attractions, at designated stops and on the buses
+
+-   Handled payments (credit card and cash) and processed vouchers
+
+-   Provided customer service to customers and tourists in the city of Toronto and on the tours available
+
+-   Provided safety information and ensured safety measures are followed on the buses
+
+-   Ensured that the bus followed the route and arrived on time to each location
+
+-   Communicated any issues with service and/or traffic
+
+-   Cashed out other employees at the end of their shift
+
+-   Worked in a variety of weather conditions, including heat, rain and snow
+
+## **Cineplex Odeon** 
+
+**Cast Member**
+
+*May - September 2016*
+
+-   Served customers at the concession stand and handled payments, including credit/cards and cash
+
+-   Opened and/or closed the concession stand, cleaning and preparing all material for the current or next shift
+
+-   Made popcorn and ensured the ice and pop machines were working and stocked at all times
+
+# Volunteer Experience
+
+## **Icelandic Canadian Club of Toronto**
+
+-   Board Member (2022 - Current)
+
+-   Falkinn Newsletter Editor (2024 - Current)
+
+-   Organized, presented and emceed the Annual Travel Show (2023 and 2025)
+
+-   Coordinated the guest speakers for the INLNA 2025 Annual General Meeting
+
+-   Various tasks as assigned
+
+## **The Women in Mining Kingston Student Chapter**
+
+-   Co-president (2018 - 2019)
+
+-   Vice President for Geological Sciences (2017 - 2018)
+
+-   Undergraduate Representative for Geological Sciences (2016 - 2017)
+
+-   Aided in the organization and presentation of:
+
+    -   The Annual Fur Cup Hockey Game between the Geology and Mining Departments
+
+    -   Annual Career Night Presentation
+
+    -   WIM Kingston Conference
+
+    -   Bake sales and fundraising events
+
+-   Ensured information on WIM events were disseminated to the geology department
+
+-   Handled the chapter finances
+
+-   Appointed committee members
+
+## **Prospectors and Developers Association of Canada**
+
+-   Convention Ambassador (2017 and 2018)
+
+-   Provided information on the conference schedule and layout
+
+-   Provided directions to booths and industry talks
+
+-   Ensured only conference attendees entered the trade show and presentations
+
+-   Counted talk attendees
+
+## **Queen's University** 
+
+-   Gael, ASUS Orientation Leader (2017)
+
+    -   Welcomed the first year students to the university
+
+    -   Lead an orientation group
+
+        -   Ensured the students apart of my orientation group were able to navigate campus and attended the orientation week events
+
+        -   Checked in and provided help year round to the students apart of my orientation group
+
+-   Homecoming Volunteer (2017)
+
+    -   Checked in alumni attending the homecoming events
+
+    -   Ensured the attendees had their name cards and homecoming packages
+
+    -   Provided information on the schedule and location of events
+
+## **Beach Metro News**
+
+-   Local Newspaper Delivery (2013 - 2015)
+
+-   Delivered the local newspaper to the houses on my route
+
+-   Ensured the newspaper was delivered in a timely manner
+
+## **Eastern Canadian Highland Dancing Association**
+
+-   Lined up dancers in the queue to compete according to their group order (2012 - 2015)
+
+-   Helped run the bake sale table when required (2012 - 2015)
+
+-   Aided the treasurer when required (2012 - 2015)
+
+# Recent Accomplishments and Awards
+
+-   Associates Grade (Teachers Level) in Highland Dance – Scottish Official Highland Dancing Association, British Association of Teachers Dancing (2015 - Current)
+
+-   Snorri Program Participant (2022)
+
+-   Grade 12 Ontario Scholar (2015)
+
+-   Certificate of Bilingualism, TDSB (2015)
+
+-   OFSAA Representative for Girls' Rugby (2013, 2014)
+
+-   OFSAA Representative for Girls' Field Hockey (2014, 2015)
+
+-   First Runner Up in the Senior Written Paper at The Sadie Simpson North American Highland Scholarships (2013)

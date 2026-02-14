@@ -1,0 +1,113 @@
+---
+title: "Skills Summary"
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+mainfont: Perpetua Titling MT
+sansfont: Cambria
+monofont: Cambria
+---
+
+-   Conversational spoken and written French
+
+-   Valid Ontario G Driver's Licence
+
+-   Good learner, able to pick things up quickly
+
+-   Self starter, can work with minimal oversight
+
+-   Works well with others, has a positive attitude
+
+-   Attention to detail
+
+-   Handling of sensitive and confidential information
+
+-   Customer service and communication
+
+-   Navigation of office dynamics
+
+-   Adept with computers, including:
+
+    -   Microsoft Office Products including Excel, Outlook, PowerPoint and Word
+
+    -   ESRI applications including ArcMap, ArcGIS Pro and ArcGIS Online
+
+    -   ENVI
+
+    -   QGIS
+
+    -   R Studio
+
+    -   Python
+
+    -   Broadridge Dataphile System
+
+    -   Unifide Platform
+
+    -   Flowfees System
+
+-   Variety of image analyses techniques and processes, including:
+
+    -   Vector and raster data formats
+
+    -   Supervised and unsupervised classification
+
+    -   Suitability and least cost path analyses
+
+    -   Remote sensing indices, including vegetation health and burn severity
+
+    -   Time series analysis
+
+    -   Stream network analyses
+
+    -   Lidar processing and work with DEMs and CHMs
+
+    -   Air Photo and orthophoto analysis
+
+-   Field Safety
+
+-   Field Skills - Mapping
+
+    -   Pace & Compass traversing with air photos
+
+    -   Detailed grid mapping
+
+    -   Detailed map and cross section preparation at several scales
+
+    -   Measuring stratigraphic sections and their correlation
+
+    -   Field (outcrop) and thin section identification of rocks
+
+    -   Field navigation and structural measurements with Silva and Brunton compasses, base map and GPS
+
+    -   Traverse planning
+
+    -   Geological mapping in Appalachian orogeny (poly-folded terrain)
+
+    -   Geological mapping in the Grenville Province and in the St. Lawrence Platform
+
+-   Field Skills - Site Investigation and Exploration
+
+    -   Recognition and mapping of folded and faulted rock
+
+    -   Characterization of jointed and altered rock masses (RQD, Q, RMR)
+
+    -   Interpretation of regional structural geology
+
+    -   Hydrological baseline assessment
+
+    -   Basic air photo and orthophoto interpretation
+
+    -   Surficial sediment characterization
+
+    -   Logging drill core and soil profiles in auger holes
+
+    -   Applications of geophysical techniques including magnetics, ground penetrating radar and refraction seismics
+
+    -   Processing of geological data (Stereonets and Rose diagrams)
+
+    -   Basic economic analysis in mineral exploration
+
+    -   Geological report writing and map production

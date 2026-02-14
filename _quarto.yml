@@ -3,17 +3,16 @@ project:
   output-dir: C:\Users\mtstaple.stu\Documents\GitHub\E-Portfolio_MS
 
 website:
-  title: "Madeline S"
+  title: "M. Stapleton"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - href: resume.qmd
+      - href: Resume.qmd
         text: Resume
-      - href: publications.qmd
-        text: Publications
-      - href: content.qmd
-        text: Content & Deliverables
+      - href: skills.qmd
+        text: Skills Summary
+      - href: academic_work.qmd
+        text: Academic Work
 
 format:
   html:
