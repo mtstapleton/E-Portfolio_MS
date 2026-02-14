@@ -5,8 +5,6 @@ format:
     theme: yeti
     css: styles.css
     toc: true
-      toc-depth: 4
-      toc-expand: true
 mainfont: Cambria
 ---
 
